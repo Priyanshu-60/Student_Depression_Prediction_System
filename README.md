@@ -18,6 +18,17 @@ program for processing and prediction.
 - Data collected using Google Forms
 - Responses stored automatically in Google Sheets
 - CSV file uploaded at runtime for predictions
+###  Google Form Link
+
+The Google Form used to collect student responses for this project is available below:
+
+**Google Form:**  
+https://docs.google.com/forms/u/7/d/1nM4Qg53AnGpn8b6Vjtab6w9ZAJdURaS1VEGAqkTRoyk/edit?usp=drivesdk&ouid=116662275056715675044&chromeless=1
+
+Responses submitted through this form are automatically stored in a connected
+Google Sheet, exported as a CSV file, and uploaded at the beginning of execution
+for model training and prediction.
+
 
 ##  Files in this Repository
 - `student depression prediction.ipynb` – Model training & prediction notebook
